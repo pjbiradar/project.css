@@ -1,0 +1,225 @@
+.end{
+    filter: blur(10px);
+}
+body{
+    border: 2px solid gray;
+}
+
+
+.j{
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: bolder;
+    position: relative;
+    top: 188px;
+    right: 410px;
+}
+.j1{
+    position: relative;
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    font-size: xxx-large;
+    top: 126px;
+    right: 295px;
+    color: gray;
+}
+.j2{
+    color: red;
+}
+.fa-plus-circle{
+    color: red;
+    text-align: center;
+    font-weight: 900;
+    position: relative;
+    top: 76px;
+    font-size: xx-large;
+    left: 914px;
+    font-weight: 900;
+}
+.j2{
+    font-size: xx-large;
+    position: relative;
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    color: gray;
+    position: relative;
+    top: 38px;
+    left: 261px;
+}
+.j3{
+    border: 1px solid orangered;
+    border-radius: 6%;
+    width: 227px;
+    position: relative;
+    left: 282px;
+    top: 90px;
+    height: 339px;
+    box-shadow: 2px 2px 5px grey;
+}
+.j4{
+    font-size: x-large;
+    font-family: 'Heebo', sans-serif;
+    color: red;
+    position: relative;
+    left: 50px;
+}
+hr{
+    width: 182px;
+    right: -21px;
+    position: relative
+}
+.j5{
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: line-through;
+    text-decoration-color: red;
+    position: relative;
+    left: -7px;
+    text-align: center;
+    color: red;
+}
+.j6{
+    font-size: x-large;
+    color: black;
+    position: relative;
+    left: 52px;
+    bottom: 5px;
+}
+.j7{
+    position: relative;
+    right: 119px;
+    height: 24px;
+    width: 26px;
+}
+.j8{
+    border: 1px solid orangered;
+    border-radius: 6%;
+    width: 227px;
+    position: relative;
+    left: 585px;
+    top: -251px;
+    height: 339px;
+    box-shadow: 2px 2px 5px grey;
+}
+.j9{
+    font-size: x-large;
+    font-family: 'Heebo', sans-serif;
+    color: red;
+    position: relative;
+    left: 50px;
+}
+hr{
+    width: 182px;
+    right: -21px;
+    position: relative
+}
+.j10{
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: line-through;
+    text-decoration-color: red;
+    position: relative;
+    left: -7px;
+    text-align: center;
+    color: red;
+}
+.j11{
+    font-size: x-large;
+    color: black;
+    position: relative;
+    left: 52px;
+    bottom: 5px;
+}
+.j12{
+    position: relative;
+    right: 119px;
+    height: 24px;
+    width: 26px;
+}
+.j13{
+    border: 1px solid orangered;
+    border-radius: 6%;
+    width: 227px;
+    position: relative;
+    left: 895px;
+    top: -594px;
+    height: 339px;
+    box-shadow: 2px 2px 5px grey;
+}
+.j14{
+    font-size: x-large;
+    font-family: 'Heebo', sans-serif;
+    color: red;
+    position: relative;
+    left: 50px;
+}
+hr{
+    width: 182px;
+    right: -21px;
+    position: relative
+}
+.j15{
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: line-through;
+    text-decoration-color: red;
+    position: relative;
+    left: -7px;
+    text-align: center;
+    color: red;
+}
+.j16{
+    font-size: x-large;
+    color: black;
+    position: relative;
+    left: 52px;
+    bottom: 5px;
+}
+.j17{
+    position: relative;
+    right: 119px;
+    height: 24px;
+    width: 26px;
+}
+
+
+
+.n1{
+    border-radius: 7px;
+    width: 381px;
+    height: 208px;
+    border: 2px solid orangered;
+    position: absolute;
+    left: 500px;
+    top: 273px;
+    box-shadow: 3px 4px 10px grey;
+}
+.n2{
+    color: red;
+    font-family: 'Heebo', sans-serif;
+    font-size: larger;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 25px;
+}
+.n3{
+    border-radius: 7px;
+    border: 1px solid red;
+    width: 303px;
+    left: 36px;
+    position: relative;
+    height: 40px;
+    box-shadow: 1px 1px 3px grey;
+}
+.n4{
+    height: 40px;
+    border-radius: 38px;
+    border-color: red;
+    width: 91px;
+    background-color: red;
+    position: relative;
+    left: 139px;
+    top: 28px;
+    color: white;
+
+}

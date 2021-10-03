@@ -1,0 +1,93 @@
+.j1{
+    font-size: xxx-large;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+}
+.child{
+    width: 212px;
+    position: relative;
+    left: 262px;
+    bottom: 57px;
+}
+
+.child1{
+    width: 218px;
+    bottom: 66px;
+    right: 252px;
+    position: relative;
+
+} 
+.fa-arrow-circle-left{
+    font-weight: 900;
+    position: relative;
+    left: 693px;
+    font-size: xx-large;
+    color: red;
+}
+.j2{
+    font-family: 'Heebo', sans-serif;
+    color: gray;
+    left: 740px;
+    position: relative;
+    font-weight: bold;
+    bottom: 72px;
+    font-size: xx-large;
+}
+.j3{
+    border: 1px solid red;
+    border-radius: 6%;
+    width: 362px;
+    position: relative;
+    left: 580px;
+    text-align: center;
+    top: -60px;
+    height: 416px;
+    box-shadow: 10px 10px 10px grey;
+}
+.j4{
+    font-size: x-large;
+    font-family: 'Heebo', sans-serif;
+    color: red;
+    position: relative;
+    left: -6px;
+    text-align: center;
+}
+.hr{
+    width: 317px;
+    right: -21px;
+    position: relative;
+    bottom: -6px;
+}
+.j5{
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration:line-through;
+    text-decoration-color: red;
+    position: relative;
+    left: -7px;
+    text-align: center;
+    color: red;
+}
+.j6{
+    font-size: x-large;
+    color: black;
+    position: relative;
+    left: 14px;
+    bottom: 5px;
+}
+.j7{
+    position: relative;
+    right: 159px;
+    height: 24px;
+    width: 26px;
+}
+.fa-plus-circle{
+    color: red;
+    font-size: xx-large;
+    left: 914px;
+    font-weight: 900;
+    left: 880px;
+    position: relative;
+    top: -152px;
+}
